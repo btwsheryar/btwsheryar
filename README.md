@@ -6,17 +6,21 @@
 
 💻 Passionate about Technology and Programming.
 
+### 🚀 Currently Know
+- C
+- C++
+
 ### 🚀 Currently Learning
+- HTML
+- CSS
+
+### 🚀 My Future Learning Goals
 - Python Programming
 - Artificial Intelligence
 - Machine Learning
 - Data Science
-
 ### 🎯 My Goals
-- Improve my programming skills.
-- Build interesting AI projects.
-- Learn new technologies.
-- Become a Professional AI Engineer.
+To become a skilled AI Engineer and develop innovative projects.
 
 ### 🛠️ My Interests
 - Artificial Intelligence
