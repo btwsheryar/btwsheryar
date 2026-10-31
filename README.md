@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Sheryar Noor 👋
 
-<!--
-**btwsheryar/btwsheryar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Artificial Intelligence Student
 
-Here are some ideas to get you started:
+🎓 Studying at University of Engineering and Technology, Lahore.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Technology and Programming.
+
+### 🚀 Currently Learning
+- Python Programming
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+
+### 🎯 My Goals
+- Improve my programming skills.
+- Build interesting AI projects.
+- Learn new technologies.
+- Become a Professional AI Engineer.
+
+### 🛠️ My Interests
+- Artificial Intelligence
+- Computer Science
+- Problem Solving
+- Software Development
+
+### 📫 Connect With Me
+- GitHub: https://github.com/btwsheryar
+- Location: Lahore, Pakistan
+
+---
+
+⭐ "Learning Today, Leading Tomorrow!"
+
+Thanks for visiting my profile! 😊
